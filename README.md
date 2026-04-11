@@ -10,3 +10,6 @@ Software Development
 
 ## Deskripsi repository
 Repository ini dibuat untuk kolaborasi pengerjaan proyek software development
+
+## dataset
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?resource=download
